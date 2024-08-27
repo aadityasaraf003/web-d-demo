@@ -1,2 +1,2 @@
 # web-d-demo
-learning how Git &amp; Github works.
+Learning How Git &amp; Github Works.
